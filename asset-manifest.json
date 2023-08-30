@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GarryMittal/AbsenteesRecord/static/css/main.84008c90.css",
+    "main.js": "/GarryMittal/AbsenteesRecord/static/js/main.90b9c7a2.js",
+    "static/js/787.71399be6.chunk.js": "/GarryMittal/AbsenteesRecord/static/js/787.71399be6.chunk.js",
+    "index.html": "/GarryMittal/AbsenteesRecord/index.html",
+    "main.84008c90.css.map": "/GarryMittal/AbsenteesRecord/static/css/main.84008c90.css.map",
+    "main.90b9c7a2.js.map": "/GarryMittal/AbsenteesRecord/static/js/main.90b9c7a2.js.map",
+    "787.71399be6.chunk.js.map": "/GarryMittal/AbsenteesRecord/static/js/787.71399be6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84008c90.css",
+    "static/js/main.90b9c7a2.js"
+  ]
+}
